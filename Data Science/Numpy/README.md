@@ -11,4 +11,8 @@ Anaconda, install NumPy by going to your terminal or command prompt and typing:
 ```
 conda install numpy
 ```
+atau
+```
+pip install numpy
+```
 
